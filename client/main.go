@@ -19,11 +19,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/ccsexyz/kcp-go-raw"
+	kcpraw "github.com/ccsexyz/kcp-go-raw"
 	"github.com/ccsexyz/shadowsocks-go/redir"
-	"github.com/ccsexyz/shadowsocks-go/shadowsocks"
+	ss "github.com/ccsexyz/shadowsocks-go/shadowsocks"
 	"github.com/ccsexyz/smux"
-	"github.com/ccsexyz/utils"
 	"github.com/golang/snappy"
 	"github.com/pkg/errors"
 	"github.com/urfave/cli"

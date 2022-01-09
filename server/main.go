@@ -22,7 +22,6 @@ import (
 	kcpraw "github.com/ccsexyz/kcp-go-raw"
 	ss "github.com/ccsexyz/shadowsocks-go/shadowsocks"
 	"github.com/ccsexyz/smux"
-	"github.com/ccsexyz/utils"
 	"github.com/golang/snappy"
 	"github.com/urfave/cli"
 	kcp "github.com/xtaci/kcp-go"
