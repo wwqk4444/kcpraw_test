@@ -1,3 +1,3 @@
-module github/zhengying/kcpraw/client
+module github.com/zhengying/kcpraw/client
 
 go 1.17
