@@ -1,3 +1,4 @@
+//go:build faketcp
 // +build faketcp
 
 package ss
@@ -5,10 +6,10 @@ package ss
 import (
 	"net"
 
-	"github.com/ccsexyz/kcp-go-raw"
+	"github.com/zhengying/kcpraw/kcp-go-raw"
 
-	"github.com/ccsexyz/rawcon"
-	"github.com/ccsexyz/utils"
+	"github.com/zhengying/kcpraw/rawcon"
+	"github.com/zhengying/kcpraw/utils"
 )
 
 func listenUDP(c *Config) (net.PacketConn, error) {

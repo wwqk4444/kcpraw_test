@@ -1,3 +1,4 @@
+//go:build !linux && !darwin && !dragonfly && !freebsd && !netbsd && !openbsd
 // +build !linux,!darwin,!dragonfly,!freebsd,!netbsd,!openbsd
 
 package rawcon
@@ -17,10 +18,10 @@ import (
 
 	ran "math/rand"
 
-	"github.com/ccsexyz/gopacket/layers"
-	"github.com/ccsexyz/gopacket/pcap"
-	"github.com/ccsexyz/utils"
 	"github.com/google/gopacket"
+	"github.com/zhengying/kcpraw/gopacket/layers"
+	"github.com/zhengying/kcpraw/gopacket/pcap"
+	"github.com/zhengying/kcpraw/utils"
 	"golang.org/x/net/ipv4"
 )
 

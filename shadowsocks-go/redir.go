@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/ccsexyz/shadowsocks-go/shadowsocks"
-	"github.com/ccsexyz/utils"
+	ss "github.com/zhengying/kcpraw/shadowsocks-go/shadowsocks"
+	"github.com/zhengying/kcpraw/utils"
 )
 
 func RunTCPRedirServer(c *ss.Config) {

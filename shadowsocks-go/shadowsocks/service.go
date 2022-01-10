@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ccsexyz/utils"
+	"github.com/zhengying/kcpraw/utils"
 )
 
 var services sync.Map

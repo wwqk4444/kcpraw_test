@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ccsexyz/utils"
+	"github.com/zhengying/kcpraw/utils"
 )
 
 type Config struct {

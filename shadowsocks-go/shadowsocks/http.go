@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ccsexyz/utils"
+	"github.com/zhengying/kcpraw/utils"
 )
 
 // copy from stackoverflow
