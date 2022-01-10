@@ -9,8 +9,8 @@ import (
 	"os"
 	"sync"
 
-	ss "github.com/ccsexyz/shadowsocks-go/shadowsocks"
-	utils "github.com/zhengying/ccsexyz_utils"
+	ss "github.com/zhengying/kcpraw/shadowsocks-go/shadowsocks"
+	"github.com/zhengying/kcpraw/utils"
 )
 
 func socks6HandShake(conn net.Conn, host string, port int) error {

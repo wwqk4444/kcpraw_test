@@ -24,7 +24,7 @@ Features
 Installation
 ============
 
-It is highly recommended to use [kcpraw releases](https://github.com/ccsexyz/kcpraw/releases).  
+It is highly recommended to use [kcpraw releases](https://github.com/zhengying/kcpraw/kcpraw/releases).  
 
 Note for Windows Users   
 kcpraw is dependent on winpcap.You should download and install it from [winpcap](https://www.winpcap.org/install/default.htm) first.   
@@ -43,12 +43,12 @@ Alternatively, you can manually compiled it from source:
 2.Run go get or build.sh   
 
 ```  
-$ go get -u -v github.com/ccsexyz/kcpraw/client
-$ go get -u -v github.com/ccsexyz/kcpraw/server  
+$ go get -u -v github.com/zhengying/kcpraw/kcpraw/client
+$ go get -u -v github.com/zhengying/kcpraw/kcpraw/server  
 
 # or 
-$ go get github.com/ccsexyz/kcpraw  
-$ cd $GOPATH/src/github.com/ccsexyz/kcpraw  
+$ go get github.com/zhengying/kcpraw/kcpraw  
+$ cd $GOPATH/src/github.com/zhengying/kcpraw/kcpraw  
 $ ./build.sh  
 ```  
 
@@ -153,7 +153,7 @@ Report Bugs
 
 You're very welcom to report issues on GitHub: 
 
-https://github.com/ccsexyz/kcpraw/issues  
+https://github.com/zhengying/kcpraw/kcpraw/issues  
 
 Authors
 =======
