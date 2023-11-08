@@ -9,7 +9,7 @@ import (
 	"os"
 	"sync"
 
-	ss "github.com/shadowsocks/shadowsocks-go/shadowsocks"
+	ss "github.com/wwqk4444/s-go/shadowsocks"
 	"github.com/wwqk4444/ccsexyz_utils"
 )
 

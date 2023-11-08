@@ -26,7 +26,7 @@ import (
 	"github.com/wwqk4444/kcp-go-raw"
 	"github.com/wwqk4444/kcpraw_test/smux"
 	"github.com/wwqk4444/kcpraw_test/shadowsocks-go/redir"
-	ss "github.com/shadowsocks/shadowsocks-go/shadowsocks"
+	ss "github.com/wwqk4444/s-go/shadowsocks"
 	"github.com/wwqk4444/ccsexyz_utils"
 )
 
