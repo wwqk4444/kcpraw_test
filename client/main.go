@@ -23,10 +23,10 @@ import (
 	"github.com/pkg/errors"
 	"github.com/urfave/cli"
 	"github.com/xtaci/kcp-go"
-	"github.com/zhengying/kcp-go-raw"
-	"github.com/zhengying/kcpraw/smux"
-	"github.com/zhengying/shadowsocks-go/redir"
-	"github.com/zhengying/utils"
+	"github.com/wwqk4444/kcp-go-raw"
+	"github.com/wwqk4444/kcpraw_test/smux"
+	"github.com/wwqk4444/kcpraw_test/shadowsocks-go/redir"
+	"github.com/wwqk4444/kcpraw_test/utils"
 )
 
 var (
