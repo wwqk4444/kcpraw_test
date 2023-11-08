@@ -23,7 +23,7 @@ import (
 	"github.com/urfave/cli"
 	kcp "github.com/xtaci/kcp-go"
 	kcpraw "github.com/wwqk4444/kcp-go-raw"
-	ss "github.com/wwqk4444/kcpraw_test/shadowsocks-go/shadowsocks"
+	ss "github.com/shadowsocks/shadowsocks-go/shadowsocks"
 	"github.com/wwqk4444/kcpraw_test/smux"
 	"github.com/wwqk4444/kcpraw_test/shadowsocks-go/redir"
 	"github.com/wwqk4444/ccsexyz_utils"
