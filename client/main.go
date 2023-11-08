@@ -26,7 +26,7 @@ import (
 	"github.com/wwqk4444/kcp-go-raw"
 	"github.com/wwqk4444/kcpraw_test/smux"
 	"github.com/wwqk4444/kcpraw_test/shadowsocks-go/redir"
-	"https://github.com/wwqk4444/ccsexyz_utils"
+	"github.com/wwqk4444/ccsexyz_utils"
 )
 
 var (
