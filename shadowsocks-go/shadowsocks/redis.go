@@ -5,7 +5,7 @@ package ss
 
 import (
 	"github.com/go-redis/redis"
-	"github.com/zhengying/kcpraw/utils"
+	"github.com/wwqk4444/ccsexyz_utils"
 )
 
 type redisFilterImpl struct {

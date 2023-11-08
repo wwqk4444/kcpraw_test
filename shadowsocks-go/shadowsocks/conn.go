@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/zhengying/kcpraw/utils"
+	"github.com/wwqk4444/ccsexyz_utils"
 )
 
 type Conn interface {

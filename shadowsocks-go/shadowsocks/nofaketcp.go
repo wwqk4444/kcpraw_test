@@ -6,7 +6,7 @@ package ss
 import (
 	"net"
 
-	"github.com/zhengying/kcpraw/utils"
+	"github.com/wwqk4444/ccsexyz_utils"
 )
 
 func listenUDP(c *Config) (net.PacketConn, error) {

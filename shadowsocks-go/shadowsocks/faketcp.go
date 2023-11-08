@@ -5,11 +5,11 @@ package ss
 
 import (
 	"net"
+	
+	"github.com/wwqk4444/kcp-go-raw"
 
-	"github.com/zhengying/kcpraw/kcp-go-raw"
-
-	"github.com/zhengying/kcpraw/rawcon"
-	"github.com/zhengying/kcpraw/utils"
+	"github.com//wwqk4444/kcpraw_test/rawcon"
+	"github.com/wwqk4444/ccsexyz_utils"
 )
 
 func listenUDP(c *Config) (net.PacketConn, error) {

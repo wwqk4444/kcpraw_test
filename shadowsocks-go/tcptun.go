@@ -1,7 +1,7 @@
 package main
 
 import (
-	ss "github.com/zhengying/kcpraw/shadowsocks-go/shadowsocks"
+	ss "github.com/wwqk4444/kcpraw_test/shadowsocks-go/shadowsocks"
 )
 
 func RunTCPTunServer(c *ss.Config) {

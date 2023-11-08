@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zhengying/kcpraw/shadowsocks-go/redir"
-	"github.com/zhengying/kcpraw/utils"
+	"github.com/wwqk4444/kcpraw_test/shadowsocks-go/redir"
+	"github.com/wwqk4444/ccsexyz_utils"
 )
 
 type listenHandler func(Conn, *listener) Conn

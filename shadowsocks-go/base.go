@@ -5,8 +5,8 @@ import (
 
 	"sync"
 
-	ss "github.com/zhengying/kcpraw/shadowsocks-go/shadowsocks"
-	"github.com/zhengying/kcpraw/utils"
+	ss "github.com/wwqk4444/kcpraw_test/shadowsocks-go/shadowsocks"
+	"github.com/wwqk4444/ccsexyz_utils"
 )
 
 func RunTCPServer(address string, c *ss.Config,
