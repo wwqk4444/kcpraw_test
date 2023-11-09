@@ -25,7 +25,6 @@ import (
 	kcpraw "github.com/wwqk4444/kcp-go-raw"
 	ss "github.com/wwqk4444/s-go/shadowsocks"
 	"github.com/wwqk4444/kcpraw_test/smux"
-	"github.com/wwqk4444/kcpraw_test/shadowsocks-go/redir"
 	"github.com/wwqk4444/ccsexyz_utils"
 )
 
